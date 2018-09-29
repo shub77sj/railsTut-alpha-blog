@@ -1,4 +1,4 @@
 # README
 
-#Rails Tut
+Rails Tut
 Alpha-Blog 
